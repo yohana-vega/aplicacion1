@@ -1,0 +1,22 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivo de entorno
+.env
+
+# Archivos de caché de Python
+_pycache_/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Configs de VSCode (opcional)
+.vscode/
+
+# Archivos de base de datos o logs temporales
+*.sqlite3
+*.db
+*.log
+
+# Otros temporales del sistema
+.DS_Store
